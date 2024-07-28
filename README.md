@@ -37,9 +37,9 @@ This project is a Python-based tool that generates realistic random email addres
 
 ## Code Structure
 - `email_verifier.py`: The main script that generates and verifies email addresses.
-- `requirements.txt`: List of required packages.
 
-##Acknowledgements
+
+## Acknowledgements
 *This project uses the dnspython library for DNS record retrieval.
 
 
