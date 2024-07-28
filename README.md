@@ -17,7 +17,9 @@ To use this tool, you need to have Python installed on your system. Additionally
 **Usage**
 
 **Generating Random Emails**
+
 The generate_random_email function creates a list of random email addresses using common usernames and the specified domain.
 
 **Verifying Emails**
+
 The verify_email function checks if an email address exists by connecting to its SMTP server and performing a mail transaction.
